@@ -1,0 +1,29 @@
+{
+  "name": "mini_street_three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-dev": "webpack --config webpack-config.js --mode development",
+    "run-server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beginaiusonova118/mini_street_three.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beginaiusonova118/mini_street_three.js/issues"
+  },
+  "homepage": "https://github.com/beginaiusonova118/mini_street_three.js#readme",
+  "dependencies": {
+    "three": "^0.114.0",
+    "three-orbit-controls": "^82.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

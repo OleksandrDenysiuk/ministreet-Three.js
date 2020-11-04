@@ -1,0 +1,2 @@
+# Do not commit npm packages
+node_modules
